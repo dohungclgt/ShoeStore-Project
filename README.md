@@ -41,26 +41,6 @@
 
 ---
 
-## 🖼 Logo or Project Banner
-
-> Replace the placeholder below with the final project banner before publishing screenshots.
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│        ShoeStore - AI-Powered Shoe E-Commerce Website          │
-│                                                               │
-│        PHP • MySQL • Bootstrap 5 • OpenRouter • DeepSeek       │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-Recommended banner path:
-
-```text
-assets/img/github-banner.png
-```
-
 ---
 
 ## 🚀 Project Overview
