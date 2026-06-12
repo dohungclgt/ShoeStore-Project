@@ -1,0 +1,20 @@
+{
+  "name": "shoestore/xampp-ecommerce",
+  "description": "ShoeStore PHP MySQL ecommerce website for XAMPP",
+  "type": "project",
+  "require": {
+    "phpmailer/phpmailer": "^6.10",
+    "tecnickcom/tcpdf": "^6.8",
+    "phpoffice/phpspreadsheet": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ShoeStore\\": "includes/"
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "8.2.12"
+    }
+  }
+}

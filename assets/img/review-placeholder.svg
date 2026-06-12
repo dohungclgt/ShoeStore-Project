@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" role="img" aria-label="Media not available">
+  <rect width="240" height="180" rx="12" fill="#f1f3f5"/>
+  <path d="M54 126l34-38 27 31 18-20 33 27H54z" fill="#d7dce2"/>
+  <circle cx="158" cy="64" r="16" fill="#c8ced6"/>
+  <text x="120" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7280">Media unavailable</text>
+</svg>

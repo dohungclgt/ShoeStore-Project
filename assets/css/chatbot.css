@@ -1,0 +1,7 @@
+.chat-product-grid{display:grid;grid-template-columns:1fr;gap:10px;margin-top:10px;white-space:normal}
+.chat-product-card{display:grid;grid-template-columns:92px 1fr;gap:10px;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.chat-product-card img{width:92px;height:112px;object-fit:cover;background:#eee}
+.chat-product-body{padding:9px 9px 9px 0;display:flex;flex-direction:column;gap:3px}
+.chat-product-body strong{font-size:.94rem;line-height:1.2}
+.chat-product-body span,.chat-product-body small{color:var(--muted);font-size:.8rem}
+.chat-product-price{font-weight:900;color:var(--accent)}
