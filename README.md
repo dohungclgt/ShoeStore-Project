@@ -429,7 +429,7 @@ shoestore/
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/your-username/shoestore.git
+https://github.com/dohungclgt/ShoeStore-Project.git
 ```
 
 Move into the project folder:
@@ -633,66 +633,6 @@ https://xxxx.ngrok-free.app/shoestore
 ```
 
 > Note: Free ngrok URLs change after restarting ngrok. Update `NGROK_HOST` whenever the forwarding URL changes.
-
----
-
-## 🖼 Screenshots
-
-> Add real screenshots before submitting or publishing the repository.
-
-### Home Page
-
-```text
-docs/screenshots/home-page.png
-```
-
-### Product Listing
-
-```text
-docs/screenshots/product-listing.png
-```
-
-### Product Detail
-
-```text
-docs/screenshots/product-detail.png
-```
-
-### Cart and Checkout
-
-```text
-docs/screenshots/cart-checkout.png
-```
-
-### AI Chatbot
-
-```text
-docs/screenshots/ai-chatbot.png
-```
-
-### User Orders
-
-```text
-docs/screenshots/user-orders.png
-```
-
-### Admin Dashboard
-
-```text
-docs/screenshots/admin-dashboard.png
-```
-
-### Admin Product Management
-
-```text
-docs/screenshots/admin-products.png
-```
-
-### Support Tickets
-
-```text
-docs/screenshots/support-tickets.png
-```
 
 ---
 
